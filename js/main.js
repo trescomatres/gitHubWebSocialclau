@@ -20,24 +20,26 @@ document.addEventListener('DOMContentLoaded', function () {
   var botoMenu = document.querySelector('.menu-boto');
   var menu = document.getElementById('menu');
 
-  // Menú mòbil
-  function tancaMenu() {
-    menu.classList.remove('es-obert');
-    botoMenu.setAttribute('aria-expanded', 'false');
+  // Menú mòbil (només a les pàgines que en tenen)
+  if (botoMenu && menu) {
+    var tancaMenu = function () {
+      menu.classList.remove('es-obert');
+      botoMenu.setAttribute('aria-expanded', 'false');
+    };
+    botoMenu.addEventListener('click', function () {
+      var obert = menu.classList.toggle('es-obert');
+      botoMenu.setAttribute('aria-expanded', String(obert));
+    });
+    menu.addEventListener('click', function (e) {
+      if (e.target.closest('a')) tancaMenu();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && menu.classList.contains('es-obert')) {
+        tancaMenu();
+        botoMenu.focus();
+      }
+    });
   }
-  botoMenu.addEventListener('click', function () {
-    var obert = menu.classList.toggle('es-obert');
-    botoMenu.setAttribute('aria-expanded', String(obert));
-  });
-  menu.addEventListener('click', function (e) {
-    if (e.target.closest('a')) tancaMenu();
-  });
-  document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && menu.classList.contains('es-obert')) {
-      tancaMenu();
-      botoMenu.focus();
-    }
-  });
 
   // Ombra de la capçalera en fer scroll
   function actualitzaCapcalera() {

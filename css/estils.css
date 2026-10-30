@@ -268,6 +268,15 @@ figure { margin: 0; }
 /* Contacte -------------------------------------------------------------- */
 .correu-directe { margin: 2.5rem 0 0; text-align: center; color: #e4eeec; }
 .correu-directe a { color: var(--sorra); font-weight: 600; }
+.privacitat { max-width: 36rem; margin: .75rem auto 0; text-align: center; font-size: .9rem; color: #e4eeec; }
+.privacitat a { color: var(--sorra); }
+
+/* Avís legal ------------------------------------------------------------ */
+.legal h1 { font-size: clamp(2.4rem, 8vw, 3.8rem); }
+.legal h2 { margin-top: 2.5rem; font-size: clamp(1.6rem, 5vw, 2rem); }
+.legal p, .legal li { color: var(--tinta-suau); }
+.legal__dades { margin-bottom: 1em; }
+.legal__dades li { padding: .5rem 0; border-bottom: 1px solid var(--linia); }
 
 /* Peu ------------------------------------------------------------------- */
 .peu { padding: 3.5rem 0 1.5rem; background: #032f33; color: #dce8e6; }
@@ -279,6 +288,8 @@ figure { margin: 0; }
 .peu a:hover { color: var(--sorra); text-decoration: underline; }
 .peu__legal { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid rgba(255, 255, 255, .12); font-size: .9rem; }
 .peu__legal p { margin: 0; }
+.peu--simple { padding-top: 1.5rem; }
+.peu--simple .peu__legal { margin-top: 0; padding-top: 0; border: 0; }
 
 /* Animacions ------------------------------------------------------------ */
 @keyframes puja { from { opacity: 0; transform: translateY(1.5rem); } to { opacity: 1; transform: none; } }
