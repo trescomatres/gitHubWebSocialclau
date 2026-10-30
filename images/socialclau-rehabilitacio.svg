@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" role="img" aria-labelledby="t">
+  <title id="t">Social Clau: rehabilitació d'un habitatge amb bastida i inserció laboral</title>
+  <rect width="560" height="480" rx="28" fill="#e6efed"/>
+  <!-- Grua -->
+  <path d="M440 440V70M440 80H250M440 80l60 0" stroke="#06454b" stroke-width="10" stroke-linecap="square"/>
+  <path d="M440 120l-40-40M440 120l40-40" stroke="#06454b" stroke-width="4"/>
+  <path d="M290 80v70" stroke="#06454b" stroke-width="3"/>
+  <rect x="274" y="150" width="32" height="20" fill="#e3bd7f"/>
+  <rect x="490" y="72" width="24" height="28" fill="#06454b"/>
+  <!-- Edifici en rehabilitació -->
+  <path d="M90 440V230l110-80 110 80v210z" fill="#faf6ee" stroke="#015f67" stroke-width="12"/>
+  <g fill="#cfe1dd">
+    <rect x="124" y="250" width="44" height="54"/><rect x="232" y="250" width="44" height="54"/>
+    <rect x="124" y="338" width="44" height="54"/>
+  </g>
+  <path d="M232 440v-80h44v80z" fill="#015f67"/>
+  <!-- Bastida -->
+  <g stroke="#e3bd7f" stroke-width="6" stroke-linecap="round">
+    <path d="M70 440V220M330 440V220M70 230h260M70 320h260M70 410h260"/>
+    <path d="M70 230l260 90M70 320l260 90" stroke-width="3" opacity=".7"/>
+  </g>
+  <!-- Persona treballant -->
+  <circle cx="120" cy="290" r="13" fill="#06454b"/>
+  <path d="M108 284a14 12 0 0 1 26 0z" fill="#e3bd7f"/>
+  <path d="M100 318a20 20 0 0 1 40 0z" fill="#06454b"/>
+  <path d="M30 440h500" stroke="#06454b" stroke-width="4" stroke-linecap="round"/>
+</svg>

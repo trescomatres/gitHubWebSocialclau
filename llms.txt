@@ -1,0 +1,23 @@
+# Social Clau
+
+> Social Clau és una cooperativa d'habitatge en cessió d'ús a Catalunya. Activa habitatges adquirits mitjançant el dret de tanteig i retracte, els rehabilita amb inserció laboral i els posa a disposició de les persones sòcies amb un dret d'ús estable, assequible i col·lectiu.
+
+## El model
+- La cooperativa manté la propietat; la persona sòcia té un dret d'ús estable i de llarga durada.
+- Aportació inicial retornable i quota d'ús calculada sobre el cost real, no sobre el preu de mercat.
+- Governança democràtica: una persona, un vot.
+
+## Com funciona (5 passos)
+1. Habitatge: identificació d'habitatges per al projecte social.
+2. Tanteig: adquisició mitjançant el dret de tanteig i retracte.
+3. Rehabilitació: obres amb criteris tècnics i inserció laboral.
+4. Cooperativa: organització democràtica de les persones sòcies.
+5. Dret d'ús: adjudicació, quotes i entrada a viure.
+
+## Qui ho impulsa
+- Associació Social House: accés als habitatges i preservació de la finalitat social.
+- Eina Activa, empresa d'inserció: rehabilitació i inserció laboral.
+- Social Clau, cooperativa: dret d'ús, quotes, convivència i participació democràtica.
+
+## Pàgines
+- [Inici](index.html): presentació completa del model, preguntes freqüents i contacte.

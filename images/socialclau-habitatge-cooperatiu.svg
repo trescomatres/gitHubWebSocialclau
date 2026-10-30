@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" role="img" aria-labelledby="t">
+  <title id="t">Social Clau: il·lustració d'un barri d'habitatges cooperatius amb una porta en forma de clau</title>
+  <circle cx="420" cy="190" r="165" fill="#f4e7cf"/>
+  <circle cx="420" cy="190" r="118" fill="none" stroke="#e3bd7f" stroke-width="2" stroke-dasharray="4 10"/>
+  <!-- Edifici esquerre -->
+  <rect x="48" y="170" width="176" height="300" fill="#06454b"/>
+  <rect x="40" y="160" width="192" height="14" fill="#015f67"/>
+  <g fill="#e9f1ef">
+    <rect x="70" y="200" width="30" height="44"/><rect x="121" y="200" width="30" height="44"/><rect x="172" y="200" width="30" height="44"/>
+    <rect x="70" y="276" width="30" height="44"/><rect x="121" y="276" width="30" height="44" fill="#e3bd7f"/><rect x="172" y="276" width="30" height="44"/>
+    <rect x="70" y="352" width="30" height="44" fill="#e3bd7f"/><rect x="121" y="352" width="30" height="44"/><rect x="172" y="352" width="30" height="44"/>
+  </g>
+  <g stroke="#e3bd7f" stroke-width="3">
+    <path d="M64 250h42M115 250h42M166 250h42M64 326h42M115 326h42M166 326h42"/>
+  </g>
+  <rect x="116" y="418" width="40" height="52" fill="#015f67"/>
+  <!-- Casa central (silueta del logotip) -->
+  <path d="M236 470V250l120-92 120 92v220z" fill="#faf6ee"/>
+  <path d="M236 470V250l120-92 120 92v220" fill="none" stroke="#015f67" stroke-width="16" stroke-linejoin="miter"/>
+  <g fill="#cfe1dd">
+    <rect x="270" y="270" width="40" height="52" rx="20" ry="20"/><rect x="402" y="270" width="40" height="52" rx="20" ry="20"/>
+  </g>
+  <path d="M326 470v-82a30 30 0 0 1 60 0v82z" fill="#015f67"/>
+  <circle cx="356" cy="406" r="11" fill="#e3bd7f"/>
+  <path d="M350 412h12l5 34h-22z" fill="#e3bd7f"/>
+  <!-- Edifici dret -->
+  <rect x="488" y="232" width="122" height="238" fill="#015f67"/>
+  <path d="M480 232h138v-12H480z" fill="#06454b"/>
+  <g fill="#e3bd7f">
+    <rect x="506" y="256" width="26" height="38"/><rect x="566" y="256" width="26" height="38" fill="#e9f1ef"/>
+    <rect x="506" y="320" width="26" height="38" fill="#e9f1ef"/><rect x="566" y="320" width="26" height="38"/>
+    <rect x="506" y="384" width="26" height="38" fill="#e9f1ef"/><rect x="566" y="384" width="26" height="38" fill="#e9f1ef"/>
+  </g>
+  <!-- Arbres i terra -->
+  <circle cx="22" cy="430" r="26" fill="#2f7f73"/><rect x="19" y="440" width="6" height="30" fill="#06454b"/>
+  <circle cx="628" cy="440" r="22" fill="#2f7f73"/>
+  <rect x="0" y="468" width="640" height="6" fill="#06454b"/>
+  <rect x="0" y="474" width="640" height="46" fill="#ebe3d3"/>
+  <path d="M60 497h90M210 497h90M370 497h90M520 497h90" stroke="#faf6ee" stroke-width="4"/>
+</svg>

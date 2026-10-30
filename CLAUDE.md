@@ -1,4 +1,4 @@
-# Luminar
+# Socialclau
 
 ## Qué és
 Este proyecto pretende ser una página web estática, llamada landing, sobre la empresa SocialClau. Encontrarás toda la información de la empresa en el Powerpoint que facilito en la carpeta Working.
@@ -26,6 +26,7 @@ Este proyecto pretende ser una página web estática, llamada landing, sobre la 
 - Tipografías: Algun tipo de fuente que sea elegante (estilo Serif)
 - Mobile-first y Accesible
 - Utiliza efectos de movimiento con CSS sin abusar para hacer la web más atractiva para el usuario
+- Utiliza imágenes atractiva que puedas generar.
 - Las imágenes puedes crearlas si lo ves necesario. Debe contener suficientes imágenes para que no se vea demasiado texto.
 
 ## Material
@@ -79,4 +80,5 @@ Este proyecto pretende ser una página web estática, llamada landing, sobre la 
 ## Normas para Claude
 - Responde en castellano
 - Explicame siempre antes de hacer cambios
-- Haz cambios peuqeños y progresivos
+- Haz cambios pequeños y progresivos
+- Cuando finalices todo el proceso, muestra los tokens consumidos y un resumen de lo que tengo disponible de toquens.

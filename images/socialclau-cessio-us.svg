@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 480" role="img" aria-labelledby="t">
+  <title id="t">Social Clau: la clau del dret d'ús compartida per la comunitat cooperativa</title>
+  <rect width="560" height="480" rx="28" fill="#f4e7cf"/>
+  <circle cx="280" cy="230" r="150" fill="#faf6ee"/>
+  <!-- Clau amb cap en forma de casa -->
+  <g transform="rotate(-35 280 230)">
+    <path d="M200 230v-62l58-44 58 44v62z" fill="#015f67"/>
+    <path d="M238 230v-34a20 20 0 0 1 40 0v34z" fill="#faf6ee"/>
+    <rect x="316" y="214" width="150" height="32" rx="6" fill="#015f67"/>
+    <rect x="410" y="246" width="20" height="34" fill="#015f67"/>
+    <rect x="442" y="246" width="20" height="24" fill="#015f67"/>
+  </g>
+  <!-- Persones sòcies -->
+  <g fill="#06454b">
+    <circle cx="110" cy="360" r="20"/><path d="M76 430a34 34 0 0 1 68 0z"/>
+    <circle cx="450" cy="360" r="20"/><path d="M416 430a34 34 0 0 1 68 0z"/>
+  </g>
+  <g fill="#e3bd7f">
+    <circle cx="200" cy="384" r="18"/><path d="M169 446a31 31 0 0 1 62 0z"/>
+    <circle cx="360" cy="384" r="18"/><path d="M329 446a31 31 0 0 1 62 0z"/>
+  </g>
+  <circle cx="280" cy="392" r="17" fill="#015f67"/><path d="M251 452a29 29 0 0 1 58 0z" fill="#015f67"/>
+  <path d="M60 452h440" stroke="#06454b" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#e3bd7f"><circle cx="96" cy="96" r="6"/><circle cx="470" cy="120" r="8"/><circle cx="440" cy="70" r="4"/></g>
+</svg>
