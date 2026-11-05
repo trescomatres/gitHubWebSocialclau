@@ -9,7 +9,7 @@ document.documentElement.classList.add('js');
  *   btoa('nova@adreca.cat'.split('').reverse().join(''))
  * i enganxeu el resultat aquí.
  */
-var CORREU_CODIFICAT = 'dGFjLnVhbGNsYWljb3NAb2ZuaQ==';
+var CORREU_CODIFICAT = 'Z3JvLnVhbGNsYWljb3NAb2ZuaQ==';
 
 function obtenirCorreu() {
   return atob(CORREU_CODIFICAT).split('').reverse().join('');
